@@ -1,7 +1,7 @@
 # StakePool Operator Scripts (SPOS)
 
 Useful scripts from **ATADA_StakePool_Austria** for any StakePool Operator out there ...<br>&nbsp;<br>
-<img src="https://www.wavespool.io/cover-min.png" border=0></img></a><br>
+<img src="https://github.com/WavesPoolOP/wavespool/blob/main/cover.png" border=0></img></a><br>
 
 **Mainnet-Files:** -> cardano -> mainnet<br>
 **Testnet-Files:** -> cardano -> testnet<br>
